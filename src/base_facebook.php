@@ -127,10 +127,7 @@ abstract class BaseFacebook
    */
   const VERSION = '3.2.3';
 
-  /**
-   * Signed Request Algorithm.
-   */
-  const SIGNED_REQUEST_ALGORITHM = 'HMAC-SHA256';
+  
 
   /**
    * Default options for curl.
